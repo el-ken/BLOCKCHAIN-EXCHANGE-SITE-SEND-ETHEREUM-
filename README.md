@@ -34,8 +34,7 @@ Here is the live site https://sendeth.netlify.app
 5. Open http://localhost:3000 with your browser to see the result.
 
 # How to use the project
-How to store a Property
-Connect your wallet. Note that the wallet must be connected to Goerli Testnet
-Get some GoerliETH from Goerlifaucet
-Navigate to My Properties page
-Click on Add a Property
+1. Connect your wallet. Note that the wallet must be connected to Goerli Testnet
+2. Get some GoerliETH from Goerlifaucet
+3. Navigate to form and input the details needed for you to sent eth to
+Click on send and thats it.
